@@ -1,8 +1,9 @@
 {
+  
   "name": "example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kuzmichov123.github.io/website",
+  "homepage": "https://kuzmichov123.github.io/website/website",
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
     "@testing-library/jest-dom": "^5.17.0",
